@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vipansi-22/leetcode/tree/master/0002-add-two-numbers) |
 | [2029-stone-game-ix](https://github.com/vipansi-22/leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vipansi-22/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/vipansi-22/leetcode/tree/master/2029-stone-game-ix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vipansi-22/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vipansi-22/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
