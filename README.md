@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vipansi-22/leetcode/tree/master/0002-add-two-numbers) |
+| [1872-stone-game-viii](https://github.com/vipansi-22/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/vipansi-22/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vipansi-22/leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vipansi-22/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/vipansi-22/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/vipansi-22/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/vipansi-22/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vipansi-22/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vipansi-22/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/vipansi-22/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/vipansi-22/leetcode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/vipansi-22/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/vipansi-22/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vipansi-22/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/vipansi-22/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/vipansi-22/leetcode/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
@@ -111,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vipansi-22/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/vipansi-22/leetcode/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/vipansi-22/leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
