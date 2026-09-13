@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/vipansi-22/leetcode/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/vipansi-22/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/vipansi-22/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/vipansi-22/leetcode/tree/master/2029-stone-game-ix) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/vipansi-22/leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vipansi-22/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
