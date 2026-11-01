@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vipansi-22/leetcode/tree/master/0002-add-two-numbers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vipansi-22/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/vipansi-22/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vipansi-22/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vipansi-22/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vipansi-22/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0704-binary-search](https://github.com/vipansi-22/leetcode/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/vipansi-22/leetcode/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/vipansi-22/leetcode/tree/master/1386-cinema-seat-allocation) |
