@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vipansi-22/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/vipansi-22/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vipansi-22/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vipansi-22/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vipansi-22/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vipansi-22/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/vipansi-22/leetcode/tree/master/1872-stone-game-viii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vipansi-22/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vipansi-22/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Bit Manipulation
 |  |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vipansi-22/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/vipansi-22/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vipansi-22/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/vipansi-22/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vipansi-22/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
